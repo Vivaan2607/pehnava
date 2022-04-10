@@ -50,3 +50,7 @@ font-size: 20px;
 #toggle-text {
   position: relative;
 }
+
+html{
+  font-family: sf pro display !important;
+} 
