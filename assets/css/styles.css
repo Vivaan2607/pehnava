@@ -43,7 +43,7 @@ font-size: 20px;
   background-color: #0E0E10;
   color: white;
   margin: 50px 100px;
-  font-family: 'sf pro display';
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 32px;
 }
 
@@ -52,5 +52,5 @@ font-size: 20px;
 }
 
 html{
-  font-family: sf pro display !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
 } 
